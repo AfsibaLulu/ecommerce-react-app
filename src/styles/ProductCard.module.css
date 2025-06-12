@@ -1,0 +1,12 @@
+.cardSize{
+    width :250px;
+    /* cursor: 'pointer'; */
+}
+.cardTitle {
+    font-size: 16px;
+    font-weight: bold;
+}
+.cardImage{
+    height: 200px;
+    width: 150px;
+}

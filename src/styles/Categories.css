@@ -1,0 +1,9 @@
+.roundedCircle{
+    width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ddd;
+  transition: transform 0.3s;
+   
+}
